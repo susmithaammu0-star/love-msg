@@ -490,9 +490,6 @@
             "neee enna rombaa nalla pathukura ma.",
             "I love the way you love me.",
             "Being with you makes everything better.",
-            "You inspire me to be a better person.",
-            "You have the most beautiful soul.",
-            "I love your laugh!"
         ];
 
         const promises = [
