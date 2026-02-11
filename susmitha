@@ -696,7 +696,7 @@
 
         yesBtn.addEventListener('click', () => {
             // --- Send FormSubmit Email ---
-            const email = "maadhavanking13@gmail.com"; // <--- CHANGE THIS
+            const email = "maadhavand2005@gmail.com"; // <--- CHANGE THIS
             const formData = new FormData();
             formData.append("message", "YES! They said YES! 💍💖");
             formData.append("_captcha", "false");
